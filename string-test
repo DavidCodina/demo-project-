@@ -1,1 +1,7 @@
-This is a string from GitHub.
+{
+  answer_1: 'option_3',
+  answer_2: 7,
+  answer_3: false,
+  answer_4: true,
+  answer_5: false
+}

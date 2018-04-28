@@ -1,7 +1,1 @@
-{
-  "answer_1": "David",
-  answer_2: true,
-  answer_3: 27,
-  answer_4: "Holly",
-  answer_5: false
-}
+{ "name":"John", "age":30, "car":null }
